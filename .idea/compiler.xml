@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="finance-tracker" />
+        <module name="financetracker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="finance-tracker" target="1.5" />
+      <module name="financetracker" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
