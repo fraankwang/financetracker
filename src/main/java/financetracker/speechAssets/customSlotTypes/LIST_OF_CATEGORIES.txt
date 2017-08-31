@@ -1,0 +1,16 @@
+rent
+utilities
+internet
+phone
+groceries
+food
+medicine
+hospital
+gym
+haircut
+lyft
+clothing
+miscellaneous
+subscription
+books
+travel
