@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>financetracking</groupId>
-  <artifactId>finance-tracker</artifactId>
+  <artifactId>financetracker</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>finance-tracker</name>
+  <name>financetracker</name>
 
   <dependencies>
     <dependency>
