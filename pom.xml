@@ -29,12 +29,23 @@
       <artifactId>aws-lambda-java-log4j2</artifactId>
       <version>1.0.0</version>
     </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <version>1.7.25</version>
+      <scope>test</scope>
+    </dependency>
     
     <!-- https://mvnrepository.com/artifact/com.amazon.alexa/alexa-skills-kit -->
     <dependency>
       <groupId>com.amazon.alexa</groupId>
       <artifactId>alexa-skills-kit</artifactId>
       <version>1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-java-sdk-dynamodb</artifactId>
+      <version>1.11.185</version>
     </dependency>
   </dependencies>
 

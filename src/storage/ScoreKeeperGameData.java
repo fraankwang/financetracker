@@ -1,4 +1,4 @@
-package scorekeeper.storage;
+package src.storage;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package scorekeeper.storage;
+package src.storage;
 
 import com.amazon.speech.speechlet.Session;
 

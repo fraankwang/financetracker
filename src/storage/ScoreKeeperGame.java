@@ -1,4 +1,4 @@
-package scorekeeper.storage;
+package src.storage;
 
 import java.io.Serializable;
 import java.util.Comparator;
